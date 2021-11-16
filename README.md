@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RupertBothma
-- 👀 I’m interested in Mobile & Web Developement
-- 🌱 I’m currently learning Full Stack Development - Focused on JavaScript Frameworks 
+- 👀 I’am a DevOps Engineer currently working at Autumn Leaf IT
 - 📫 How to reach me rupert.bothma1@gmail.com
 
 <!---
