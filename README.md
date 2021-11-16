@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RupertBothma
+- 👋 Hi, I’m Rupert Bothma
 - 👀 I’am a DevOps Engineer currently working at Autumn Leaf IT
 - 📫 How to reach me rupert.bothma1@gmail.com
 
