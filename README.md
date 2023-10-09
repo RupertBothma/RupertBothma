@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rupert Bothma
-- 👀 I’am a DevOps Engineer currently working at Autumn Leaf IT
-- 📫 How to reach me rupert.bothma1@gmail.com
+- 👀 I’am a System's Engineer currently working at Tripco
+- 📫 You can reach me at rupert@bothma.dev
 
 <!---
 RupertBothma/RupertBothma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
