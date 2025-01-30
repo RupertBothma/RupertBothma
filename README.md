@@ -1,8 +1,6 @@
 
 <h1>Hi 👋, I'm Rupert Bothma</h1>
 
-<p>A passionate frontend developer from South Africa currently working at Tripco</p>
-
 <h2>🛠 Skills</h2>
 <p>
 
@@ -56,21 +54,6 @@
 </a>
 
 
-<a target="_blank" href="https://laravel.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.selenium.dev" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://postman.com" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" />
-</a>
-
-
 <a target="_blank" href="https://www.figma.com/" target="_blank" style="display: inline-block;">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
 </a>
@@ -90,10 +73,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="tailwind" width="42" height="42" />
 </a>
 
-
-<a target="_blank" href="https://nextjs.org/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="nextjs" width="42" height="42" />
-</a>
 
 </p>
 
