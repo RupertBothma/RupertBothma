@@ -38,12 +38,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" />
 </a>
 
-
-<a target="_blank" href="https://www.gnu.org/software/bash/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
-</a>
-
-
 <a target="_blank" href="https://aws.amazon.com" target="_blank" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" />
 </a>
