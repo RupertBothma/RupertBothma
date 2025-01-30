@@ -1,8 +1,4 @@
 
-<a href="https://github.com/RupertBothma" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=RupertBothma&count_private=true&theme=radical" />
-</a>
-
 <h1>Hi 👋, I'm Rupert Bothma</h1>
 
 <p>A passionate frontend developer from South Africa currently working at Tripco</p>
